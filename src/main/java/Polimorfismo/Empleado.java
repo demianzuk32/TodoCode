@@ -1,6 +1,6 @@
-package herencia;
+package Polimorfismo;
 
-public class Empleado extends Persona {
+public class Empleado extends Persona{
 
     int num_legajo;
     String cargo;
